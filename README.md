@@ -1,48 +1,51 @@
 # 👋 Hi, I'm Bikash Ghimire
 
-Welcome to my GitHub profile!
+I’m a developer from Nepal 🇳🇵 specializing in **Django / DRF** and building **production-ready backend systems**. I enjoy designing scalable APIs, implementing secure authentication, and running reliable background workloads with **Celery + Redis**.
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer from Nepal, deeply interested in **Machine Learning** and **Web Development**. My journey in tech is driven by curiosity and a desire to create impactful solutions using data and code.
-
-- 🎯 **Currently Learning:**  
-  - Machine Learning (ML)
-  - Artificial Intelligence (AI)
-  - Modern Web Technologies
-
-- 💡 **Interests:**  
-  - Building intelligent systems
-  - Exploring data-driven applications
-  - Collaborating on open-source projects
+- 🔧 Backend: Django, DRF, PostgreSQL
+- ⚙️ Async & Background tasks: Celery, Redis (retries, scheduling, idempotency)
+- 🔐 Auth: JWT, OAuth (social login), role-based permissions
+- 📈 Focus: performance, clean architecture, testing, maintainability
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** React, Node.js, Express
-- **ML Tools:** scikit-learn, TensorFlow, Pandas
-- **Databases:** MySQL, MongoDB
-
----
-
-## 📫 How to Reach Me
-
-- Connect with me right here on [GitHub](https://github.com/bikashbct)
-- Open an issue or start a discussion on any of my repositories
+- **Backend:** Django, Django REST Framework (DRF)
+- **Database:** PostgreSQL
+- **Async / Queue:** Celery, Redis
+- **Docs:** Swagger / OpenAPI
+- **Tools:** Docker, Git, Linux
 
 ---
 
-## 🌱 Let's Connect and Collaborate!
+## ⭐ Featured Projects
 
-I'm always open to learning, sharing knowledge, and working together on exciting projects. Feel free to explore my repositories, suggest improvements, or just say hi!
+### 1) Django E-commerce API (DRF + OAuth + Swagger)
+A scalable E-commerce API backend with authentication (email/password + Google OAuth2), product catalog, cart/checkout, and API documentation.
+
+- Repo: https://github.com/bikashbct/django-ecommerce-api-with-swaggers
+- Highlights:
+  - DRF ViewSets + filtering/search
+  - OAuth2 Social Login (Google) + JWT
+  - Swagger docs (drf-yasg)
+  - Clean modular apps (accounts, catalog, cart, orders)
 
 ---
 
-<!---
-bikashbct/bikashbct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect
+
+- GitHub: https://github.com/bikashbct  
+- Feel free to open an issue/discussion on any repository.
+
+---
+
+## 🌱 Currently Improving
+
+- Scaling Django systems (caching, DB indexing, performance tuning)
+- Background processing patterns (Celery workflows, monitoring, reliability)
+- System design for real-world apps
